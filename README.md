@@ -1,2 +1,1 @@
-# LinuxTestnetHubPlatform
-Advanced LinuxTestnetHubPlatform project
+.
